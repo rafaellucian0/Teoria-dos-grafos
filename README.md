@@ -24,8 +24,12 @@ A pasta e arquivos do algoritmo de Bellman-Ford foram abreviados para "bellman".
 ## Ajuda
 Os algoritmos contém os seguintes parâmetros:
 
-**-h** : mostra o help 
+**-h** : mostra o help
+
 **-o** : redireciona a saida para o ‘‘arquivo’’ 
+
 **-f** : indica o ‘‘arquivo’’ que contém o grafo de entrada 
+
 **-s** : mostra a solução **(apenas Prim e Kruskal)**
+
 **-i** : vértice inicial **(Prim, Dijkstra e Bellman)**
